@@ -1,6 +1,6 @@
 # 🛠 React & Tailwind - guess number game
 
-# 🔗 [Live Preview]()
+# 🔗 [Live Preview](https://main--classy-conkies-111e7b.netlify.app/)
 ![Design preview](./src/assets/preview.gif)
 
 ## Welcome! 👋
